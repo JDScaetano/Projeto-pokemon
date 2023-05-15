@@ -13,7 +13,6 @@ botaoTema.addEventListener("click", () => {
         body.classList.add("modo-escuro")
         trocaBotao.setAttribute("src", "/src/imagens/moon.png")
     } 
-})
-j
+}) 
 
 
