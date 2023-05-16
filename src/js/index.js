@@ -8,7 +8,7 @@ botaoTema.addEventListener("click", () => {
     
     if (modoEscuroAtivo){ 
         body.classList.remove("modo-escuro")
-        trocaBotao.setAttribute("src", "./src/imagens/moon.png")
+        trocaBotao.setAttribute("src", "/projeto-pokemon/src/imagens/moon.png")
     } else { 
         body.classList.add("modo-escuro")
         trocaBotao.setAttribute("src", "./src/imagens/sun.png")
